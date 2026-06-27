@@ -1,7 +1,11 @@
+<div align="center">
+
 # TubeRAG
 
-TubeRAG is an AI-powered YouTube Question Answering application built with Retrieval-Augmented Generation (RAG).
+TubeRAG is an AI-powered YouTube Question Answering application built with Retrieval-Augmented Generation (RAG).<br/>
 Paste a YouTube URL, ask a question, and get context-aware answers grounded in the video's transcript — no hallucinations, just relevant responses.
+
+</div>
 
 ---
 
@@ -101,6 +105,11 @@ npm run dev
 
 ## Author
 
-**Name:** Chinmaya  
-**GitHub:** [github.com/chinmaya-03](https://github.com/chinmaya-03)  
-**LinkedIn:** [linkedin.com/in/chinmaya-m-831572251](https://www.linkedin.com/in/chinmaya-m-831572251/)
+**Chinmaya**
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-chinmaya--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmaya-03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chinmaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaya-m-831572251/)
+
+</div>
